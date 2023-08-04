@@ -117,16 +117,17 @@ aside span {
 }
 
 .memory img {
-    width: 100%;
+    width: 70%;
     height: 280px;
     object-fit: cover;
     border-radius: 8px;
-
     transition: transform 0.2s ease-in;
 }
 
 .memory div {
     width: 100%;
+    display: flex;
+    justify-content: center;
     height: 280px;
     overflow: hidden;
     border-radius: 8px;
