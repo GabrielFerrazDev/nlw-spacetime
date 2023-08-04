@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="" src="./assets/spacetime.PNG" width="50%">
 </p>
-## Projeto 
+<h1> Projeto </h1> 
 O projeto é uma capsula do tempo, um lugar para guardar memórias. A página é interativa e responsiva, sendo atualizada periodicamente. 
 
 ## Tecnologias 
