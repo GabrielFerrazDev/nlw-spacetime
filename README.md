@@ -1,4 +1,4 @@
-<strong><h1 align="center"> DevLinks </h1></strong>
+<strong><h1 align="center"> Spacetime </h1></strong>
 
 <p align="center">
   <img alt="" src="./assets/spacetime.PNG" width="50%">
