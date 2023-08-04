@@ -1,6 +1,6 @@
 
 ## Projeto 
-O projeto é uma página de apresentação responsiva. 
+O projeto é uma capsula do tempo, um lugar para guardar memórias. A página é interativa e responsiva, sendo atualizada periodicamente. 
 
 ## Tecnologias 
 
